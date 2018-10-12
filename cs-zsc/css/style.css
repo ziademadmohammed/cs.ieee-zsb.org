@@ -1086,13 +1086,13 @@ h1, h2, h3, h4, h5, h6 {
 /* Bottom CSS*/
 .button {
   border-radius: 4px;
-  background-color: #4CAF50;
+  background-color: #4267B2;
   border: none;
   color: #FFFFFF;
   text-align: center;
   font-size: 28px;
   padding: 20px;
-  width: 200px;
+  width: 300px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;

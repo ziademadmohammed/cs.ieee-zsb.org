@@ -316,12 +316,12 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #007b5e;
+    color: #4267B2;
     margin-bottom: 50px;
     text-transform: uppercase;
 }
 #footer {
-    background: #007b5e !important;
+    background: #4267B2 !important;
 }
 #footer h5{
 	padding-left: 10px;
@@ -386,4 +386,12 @@ section .section-title {
 /* ===================fotter========================= */
 #footer label {
 	color: #fff;
+}
+.list-group-item{
+  background-color: #4267B2;
+  color: #eeeeee;
+  padding-left: 0px;
+}
+.list-group-item:nth-child(1){
+  border-top: none
 }
