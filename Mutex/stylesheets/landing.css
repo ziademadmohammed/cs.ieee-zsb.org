@@ -417,3 +417,9 @@ section .section-title {
   padding-top: 15px;
   
 }
+.sponsor .wide-img {
+  height:70px;
+}
+.sponsor .wide-info{
+  padding-top:20px;
+}
