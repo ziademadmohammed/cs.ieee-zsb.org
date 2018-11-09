@@ -223,6 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 	height: 100%;
 }
 
+
 #socities .box {
   padding: 30px;
   background: #f4f4f4;
@@ -297,7 +298,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .person .info .name {
-  font-size: 16px;
+  text-transform: uppercase;
+  color: #0a0a0a;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
 }
 
 .person .info .position {
@@ -395,4 +399,20 @@ section .section-title {
 }
 .list-group-item:nth-child(1){
   border-top: none
+}
+
+
+
+.sponsor {
+  align-items: center;
+  margin-bottom : 20px ;
+}
+
+.sponsor img {
+  margin: 0 auto ; 
+  width: 70%;
+}
+.sponsor .info {
+  padding-top: 5px;
+  
 }
