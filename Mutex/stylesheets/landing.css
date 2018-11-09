@@ -405,14 +405,15 @@ section .section-title {
 
 .sponsor {
   align-items: center;
-  margin-bottom : 20px ;
+  margin-bottom : 40px ;
 }
 
 .sponsor img {
   margin: 0 auto ; 
-  width: 70%;
+  height : 85px;
+  width: auto;
 }
 .sponsor .info {
-  padding-top: 5px;
+  padding-top: 15px;
   
 }
