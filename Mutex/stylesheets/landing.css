@@ -73,6 +73,8 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 1;
   opacity: 1;
   width: 100%;
+  top: 0;
+  margin-top: 10px;
 }
 .nav-body {
   background-color: #fff ;
@@ -84,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: Raleway;
 	text-transform: uppercase;
 
-	/* color: rgba(255, 255, 255, 0.5); */
+	/*color: rgba(255, 255, 255, 0.5); */
 	position: relative;
 }
 #navbar li a span {
